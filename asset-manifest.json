@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/olx-clone/static/css/main.9abde4cb.css",
+    "main.js": "/olx-clone/static/js/main.6dd629c3.js",
+    "index.html": "/olx-clone/index.html",
+    "main.9abde4cb.css.map": "/olx-clone/static/css/main.9abde4cb.css.map",
+    "main.6dd629c3.js.map": "/olx-clone/static/js/main.6dd629c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9abde4cb.css",
+    "static/js/main.6dd629c3.js"
+  ]
+}
